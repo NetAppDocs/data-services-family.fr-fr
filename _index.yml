@@ -1,0 +1,93 @@
+---
+product-family:
+  title: Services de données NetApp
+  lead: Accédez aux services de données NetApp via la console NetApp pour sécuriser
+    et protéger votre infrastructure de données.
+  summary: Accédez aux services de données NetApp via la console NetApp pour sécuriser
+    et protéger votre infrastructure de données.
+  sidebarlinks:
+  - title: Tous
+    tags: all
+    class: active
+  - title: Mobilité
+    tags: mobility
+  - title: Protection
+    tags: protection
+  - title: Gouvernance
+    tags: governance
+  - title: Gestion du stockage
+    tags: storage-management
+  - title: Charges de travail
+    tags: migrations
+  tiles:
+  - title: Notes de version
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: Découvrez les nouveautés de NetApp Console et de NetApp Data Services.
+    tags: all
+  - title: Console NetApp
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: Utilisez la console NetApp pour administrer la gestion des identités
+      et des accès, déployer des agents, etc.
+    tags: all,connectors,iam
+  - title: Gestion du stockage
+    icon: "./media/icon-admin.png"
+    url: "../storage-management-family/index.html"
+    summary: Gérez vos systèmes de stockage via NetApp Console.
+    tags: storage-management
+  - title: Sauvegarde et récupération
+    icon: "./media/icon-backup.png"
+    url: "../data-services-backup-recovery/index.html"
+    summary: Protégez et récupérez les données ONTAP , les volumes Kubernetes et bien
+      plus encore sur site et dans le cloud.
+    tags: all,aws,azure,gcp,protection
+  - title: Copier et synchroniser
+    icon: "./media/icon-sync.png"
+    url: "../data-services-copy-sync/index.html"
+    summary: Simplifiez les transferts de données volumineux sur différents types
+      de stockage avec une solution intelligente et unifiée.
+    tags: all,aws,azure,gcp,mobility
+  - title: Hiérarchisation du cloud
+    icon: "./media/icon-tiering.png"
+    url: "../data-services-tiering/index.html"
+    summary: Bénéficiez d'une capacité disponible en continu en déplaçant automatiquement
+      les données froides vers un stockage d'objets à faible coût.
+    tags: all,aws,azure,gcp,mobility
+  - title: Classification des données
+    icon: "./media/icon-data-sense.png"
+    url: "../data-services-classification/index.html"
+    summary: Numérisez et classez les données pour améliorer la gouvernance, l’efficacité
+      et la confidentialité.
+    tags: all,governance,aws,azure,gcp
+  - title: Reprise après sinistre
+    icon: "./media/icon-disaster-recovery.png"
+    url: "../data-services-disaster-recovery/index.html"
+    tags: all,protection
+    summary: Exécutez une solution complète de protection contre les catastrophes
+      pour vos charges de travail VMware.
+  - title: Résilience aux ransomwares
+    icon: "./media/icon-ransomware.png"
+    url: "../data-services-ransomware-protection/index.html"
+    summary: Mettez en œuvre une défense robuste contre les ransomwares au niveau
+      de la couche de stockage pour protéger les données et automatiser les flux de
+      travail.
+    tags: all,protection
+  - title: Réplication
+    icon: "./media/icon-replication.png"
+    url: "../data-services-replication/index.html"
+    summary: Répliquez les données pour la sauvegarde, la reprise après sinistre et
+      la migration entre les systèmes ONTAP sur site et dans le cloud.
+    tags: all,mobility
+  - title: Mise en cache des volumes
+    icon: "./media/icon-volume-caching.png"
+    url: "../data-services-volume-caching/index.html"
+    summary: Créez un volume de cache inscriptible pour accélérer l'accès aux données
+      ou décharger le trafic des volumes fortement consultés.
+    tags: all,mobility
+  - title: Charges de travail
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Automatisez le provisionnement, la gouvernance et le cycle de vie de
+      FSx pour ONTAP.  Découvrez les économies de coûts et la gestion avancée.
+    tags: all,workloads
