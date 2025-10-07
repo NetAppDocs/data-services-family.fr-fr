@@ -56,7 +56,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: Classification des données
     icon: "./media/icon-data-sense.png"
-    url: "../data-services-classification/index.html"
+    url: "../data-services-data-classification/index.html"
     summary: Numérisez et classez les données pour améliorer la gouvernance, l’efficacité
       et la confidentialité.
     tags: all,governance,aws,azure,gcp
@@ -68,7 +68,7 @@ product-family:
       pour vos charges de travail VMware.
   - title: Résilience aux ransomwares
     icon: "./media/icon-ransomware.png"
-    url: "../data-services-ransomware-protection/index.html"
+    url: "../data-services-ransomware-resilience/index.html"
     summary: Mettez en œuvre une défense robuste contre les ransomwares au niveau
       de la couche de stockage pour protéger les données et automatiser les flux de
       travail.
