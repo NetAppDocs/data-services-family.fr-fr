@@ -50,7 +50,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: Hiérarchisation du cloud
     icon: "./media/icon-tiering.png"
-    url: "../data-services-tiering/index.html"
+    url: "../data-services-cloud-tiering/index.html"
     summary: Bénéficiez d'une capacité disponible en continu en déplaçant automatiquement
       les données froides vers un stockage d'objets à faible coût.
     tags: all,aws,azure,gcp,mobility
@@ -81,7 +81,7 @@ product-family:
     tags: all,mobility
   - title: Mise en cache des volumes
     icon: "./media/icon-volume-caching.png"
-    url: "../data-services-volume-caching/index.html"
+    url: "../console-volume-caching/index.html"
     summary: Créez un volume de cache inscriptible pour accélérer l'accès aux données
       ou décharger le trafic des volumes fortement consultés.
     tags: all,mobility

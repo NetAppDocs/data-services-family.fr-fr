@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="dc245a85dae84d483e92d2f226c67bac" category="sidebar">Accédez aux services de données NetApp via la console NetApp pour sécuriser et protéger votre infrastructure de données.</block>
-  <block id="6d8ade1ea0a12d4d38bba059fd313d03" category="sidebar">Accédez aux services de données NetApp via la console NetApp pour sécuriser et protéger votre infrastructure de données.</block>
   <block id="2561e39e43a752f0567c60e0365aaeca" category="sidebar">Services de données NetApp</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tous</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">Mobilité</block>
@@ -32,4 +31,5 @@
   <block id="9abc8859c5a216b452e05e6972db99af" category="sidebar">Créez un volume de cache inscriptible pour accélérer l'accès aux données ou décharger le trafic des volumes fortement consultés.</block>
   <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">Automatisez le provisionnement, la gouvernance et le cycle de vie de FSx pour ONTAP.  Découvrez les économies de coûts et la gestion avancée.</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Copier et synchroniser</block>
+  <block id="d53dec209f16f19a3b77bfb2774f6792" category="sidebar">Accédez aux services de données NetApp via la console NetApp pour sécuriser et protéger votre infrastructure de données.</block>
 </blocks>
