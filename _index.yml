@@ -1,7 +1,7 @@
 ---
 product-family:
   title: Services de données NetApp
-  lead: Accédez aux services de données NetApp via la console NetApp pour sécuriser
+  lead: Accédez aux services de données NetApp via la NetApp Console pour sécuriser
     et protéger votre infrastructure de données.
   summary: Accédez aux services de données NetApp via la console NetApp pour sécuriser
     et protéger votre infrastructure de données.
@@ -15,7 +15,7 @@ product-family:
     tags: protection
   - title: Gouvernance
     tags: governance
-  - title: Console NetApp
+  - title: NetApp Console
     tags: console
   - title: Gestion du stockage
     tags: storage-management
@@ -25,18 +25,18 @@ product-family:
   - title: Notes de version
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: Découvrez les nouveautés de NetApp Console et de NetApp Data Services.
+    summary: Découvrez les nouveautés de NetApp Console et NetApp Data Services.
     tags: all
-  - title: Console NetApp
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Utilisez la console NetApp pour administrer la gestion des identités
+    summary: Utilisez la NetApp Console pour administrer la gestion des identités
       et des accès, déployer des agents, etc.
     tags: all,console
   - title: Gestion du stockage
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
-    summary: Gérez vos systèmes de stockage via NetApp Console.
+    summary: Gérez vos systèmes de stockage via la NetApp Console.
     tags: storage-management
   - title: Sauvegarde et récupération
     icon: "./media/icon-backup.png"
@@ -91,5 +91,5 @@ product-family:
     icon: "./media/icon-workloads.png"
     url: "../workload-family"
     summary: Automatisez le provisionnement, la gouvernance et le cycle de vie de
-      FSx pour ONTAP.  Découvrez les économies de coûts et la gestion avancée.
+      FSx pour ONTAP. Découvrez les économies de coûts et la gestion avancée.
     tags: all,workloads
