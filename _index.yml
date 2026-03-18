@@ -20,7 +20,7 @@ product-family:
   - title: Gestion du stockage
     tags: storage-management
   - title: Charges de travail
-    tags: migrations
+    tags: workloads
   tiles:
   - title: Notes de version
     icon: "./media/icon-docs.png"
@@ -37,7 +37,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
     summary: Gérez vos systèmes de stockage via la NetApp Console.
-    tags: storage-management
+    tags: all, storage-management
   - title: Sauvegarde et récupération
     icon: "./media/icon-backup.png"
     url: "../data-services-backup-recovery/index.html"
