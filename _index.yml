@@ -19,8 +19,6 @@ product-family:
     tags: console
   - title: Gestion du stockage
     tags: storage-management
-  - title: Charges de travail
-    tags: workloads
   tiles:
   - title: Notes de version
     icon: "./media/icon-docs.png"
@@ -87,9 +85,3 @@ product-family:
     summary: Créez un volume de cache inscriptible pour accélérer l'accès aux données
       ou décharger le trafic des volumes fortement consultés.
     tags: all,mobility
-  - title: Charges de travail
-    icon: "./media/icon-workloads.png"
-    url: "../workload-family"
-    summary: Automatisez le provisionnement, la gouvernance et le cycle de vie de
-      FSx pour ONTAP. Découvrez les économies de coûts et la gestion avancée.
-    tags: all,workloads
